@@ -1,0 +1,1 @@
+#GraphQL wit Rick and Morty
